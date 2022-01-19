@@ -49,9 +49,9 @@ export default function HeaderLinks({info}) {
       <ListItem className={classes.listItem}>
         <IconButton className={classes.navLink}>
           <Link href="/profile">
-            <a className={classes.dropdownLink}>
-             <Person/>Quem somos
-            </a>
+
+             <Person/>
+
           </Link>
         </IconButton>
         </ListItem>
