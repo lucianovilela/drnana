@@ -67,7 +67,7 @@ export default class MyApp extends App {
     let pageProps = { info: {
       name: "Mariana Guimarães",
       email: "marigdourado@gmail.com",
-      instagram: "https://www.instagram.com/marigdourado/",
+      instagram: "https://www.instagram.com/mariiguimaraesd/",
       twitter: "https://twitter.com/marigdourado",
       linkedin: "https://www.linkedin.com/in/marigdourado/",
       facebook: "https://www.facebook.com/marigdourado",
